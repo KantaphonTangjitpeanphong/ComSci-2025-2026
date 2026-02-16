@@ -16,8 +16,8 @@ rounds = getPositiveInteger("Enter number of items: ")
 for i in range(rounds):
     item = input("Enter item name: ")
     items.append(item)
-    itemprice = getPositiveInteger("Enter item price: ")
-    price.append(itemprice)
+    item_price = getPositiveInteger("Enter item price: ")
+    price.append(item_price)
     
 
 print("finding items:")
