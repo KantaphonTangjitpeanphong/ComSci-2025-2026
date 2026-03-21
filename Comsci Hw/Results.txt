@@ -1,0 +1,5 @@
+Moshi,92
+Ja,89
+Phoom,67
+Ee,60
+Koon,32
